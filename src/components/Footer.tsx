@@ -18,17 +18,17 @@ const Footer = () => {
       {/* Brand Logos */}
       <View style={styles.brandsContainer}>
         <Image
-          source={require('../assets/images/kohler.png')}
+          source={require('../assets/logos/kohler.png')}
           style={styles.brandLogo}
           resizeMode="contain"
         />
         <Image
-          source={require('../assets/images/james-martin.png')}
+          source={require('../assets/logos/james-martin.png')}
           style={styles.brandLogo}
           resizeMode="contain"
         />
         <Image
-          source={require('../assets/images/toto.png')}
+          source={require('../assets/logos/toto.png')}
           style={styles.brandLogo}
           resizeMode="contain"
         />
@@ -42,14 +42,14 @@ const Footer = () => {
         <TouchableOpacity
           style={[styles.navButtonContainer, styles.navButtonActive]}>
           <Image
-            source={require('../assets/images/home.png')}
+            source={require('../assets/icons/home.png')}
             resizeMode="contain"
             style={styles.navButtonHome}
           />
         </TouchableOpacity>
         <TouchableOpacity style={styles.navButtonContainer}>
           <Image
-            source={require('../assets/images/stars.png')}
+            source={require('../assets/icons/stars.png')}
             resizeMode="contain"
             style={styles.navButtonHome}
           />
