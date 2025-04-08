@@ -32,6 +32,8 @@ src/
 │
 └── assets/           # Images and other static assets
     └── images/       # Design concept images
+    └── logos/       # Design concept logos
+    └── icons/       # Design concept icons
 ```
 
 ## Getting Started
