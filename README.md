@@ -2,7 +2,7 @@
 
 A mobile application showcasing interior design concepts with a clean, modern UI. Built with React Native and TypeScript.
 
-![App Screenshot](screenshot.png) <!-- Add a screenshot of your app here -->
+![App Screenshot](./screenshots/app.png)
 
 ## Features
 
