@@ -1,4 +1,4 @@
-# Single Page React Native App
+# Bathroom Designs React Native App
 
 A mobile application showcasing interior design concepts with a clean, modern UI. Built with React Native and TypeScript.
 
@@ -16,7 +16,6 @@ A mobile application showcasing interior design concepts with a clean, modern UI
 - React Native 0.78.2
 - TypeScript
 - react-native-snap-carousel for image carousel
-- react-native-vector-icons for UI icons
 - react-native-gesture-handler and react-native-reanimated for animations
 
 ## Project Structure
@@ -50,8 +49,8 @@ src/
 1. Clone the repository
 
 ```sh
-git clone https://github.com/yourusername/SinglePageApp.git
-cd SinglePageApp
+git clone https://github.com/usmanhakamDev/bathroom-designs
+cd bathroom-designs
 ```
 
 2. Install dependencies
